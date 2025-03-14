@@ -8,8 +8,8 @@ The dataset used is `ufc_fights.csv`, which includes various features related to
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/ufc-fight-prediction.git
-   cd ufc-fight-prediction
+   git clone https://github.com/yourusername/octagon-oracle.git
+   cd octagon-oracle
    ```
 
 2. **Install Dependencies**:
