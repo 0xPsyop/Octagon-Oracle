@@ -68,7 +68,7 @@ The dataset used is `ufc_fights.csv`, which includes various features related to
    - **Decision**: The top features were selected based on their importance using `SelectKBest` with `f_classif`.
 
 ### 2. **Model Selection**
-  . **Decision**: After evaluating various models, including RandomForestClassifier, LogisticRegression, XGBoost, and LightGBM, it was determined that the XGBoost model provided the best accuracy. Therefore, the XGBoost model was selected for the final implementation to ensure optimal prediction performance
+   - **Decision**: After evaluating various models, including RandomForestClassifier, LogisticRegression, XGBoost, and LightGBM, it was determined that the XGBoost model provided the best accuracy. Therefore, the XGBoost model was selected for the final implementation to ensure optimal prediction performance
 
 ### 3. **Evaluation**
    - **Metrics**: The model was evaluated using accuracy, classification report, and confusion matrix.
