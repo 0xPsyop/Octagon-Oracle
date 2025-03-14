@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains code for predicting the outcomes of UFC fights using machine learning techniques. The dataset used is `ufc_fights.csv`, which includes various features related to fighters, fight statistics, and betting odds. The goal is to predict the winner of a fight (Red or Blue) based on these features.
+The dataset used is `ufc_fights.csv`, which includes various features related to fighters, fight statistics, and betting odds. The goal is to predict the winner of a fight (Red or Blue) based on these features.
 
 ## How to Use
 
