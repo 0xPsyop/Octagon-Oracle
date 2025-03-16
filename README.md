@@ -72,8 +72,8 @@ The dataset used is `ufc_fights.csv`, which includes various features related to
 
 ### 3. **Evaluation**
    - **Metrics**: The model was evaluated using accuracy, classification report, and confusion matrix.
-
 The Evaluation for the XGBoost Classifier
+
 ![Capture](https://github.com/user-attachments/assets/245eba21-c2b7-46a5-80ec-61545176f4fd)
 
 ![image](https://github.com/user-attachments/assets/5e1f635b-bb60-4354-9a14-33b843af1a8b)
